@@ -90,7 +90,7 @@ p, h1{
     padding: 0 100px 0 100px;
   }
   .joke{
-    font-size: 30px;
+    font-size: 20px;
   }
   .btn{
     font-size: 15px;
@@ -98,5 +98,8 @@ p, h1{
   img{
     width: 100px;
     height: 100px;
+  }
+ .container{
+      padding: 20px 30px;
   }
 }
